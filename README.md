@@ -4,6 +4,7 @@ Links to various open-source Keebio repositories
 ## PCB Designs
 
 - [Banana Board](https://github.com/keebio/banana-board)
+- [BFO-9000](https://github.com/keebio/bfo9000-pcb)
 - [Fourier](https://github.com/keebio/fourier)
 - [Quefrency Rev. 1](https://github.com/keebio/quefrency-rev1-pcb)
 
