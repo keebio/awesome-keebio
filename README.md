@@ -1,5 +1,5 @@
 # Awesome Keebio
-Links to various open-source Keebio repositories
+Links to various open-source Keebio repositories, like PCB designs, case files, and keyboard design tools/libraries.
 
 ## PCB Designs
 
