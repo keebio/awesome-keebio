@@ -3,26 +3,25 @@ Links to various open-source Keebio repositories, like PCB designs, case files, 
 
 ## PCB Designs
 
-- [Banana Board](https://github.com/keebio/banana-board)
 - [BFO-9000](https://github.com/keebio/bfo9000-pcb)
 - [Fourier](https://github.com/keebio/fourier)
 - [Quefrency Rev. 1](https://github.com/keebio/quefrency-rev1-pcb)
 
 ## Case/Plate Files
 
-- [BAMFK-1 Case](https://github.com/keebio/bamfk-1-case)
-- [BDN9 Case](https://github.com/keebio/BDN9-case)
-- [DSP40 Case](https://github.com/keebio/dsp40-case)
-- [FoldKB Case](https://github.com/keebio/foldkb-case)
+- [BAMFK-1](https://github.com/keebio/bamfk-1-case)
+- [BDN9](https://github.com/keebio/BDN9-case)
+- [DSP40](https://github.com/keebio/dsp40-case)
+- [FoldKB](https://github.com/keebio/foldkb-case)
 - [Fourier](https://github.com/keebio/fourier-case)
-- [Iris Case](https://github.com/keebio/iris-case)
-- [KBO-5000 Case](https://github.com/keebio/kbo-5000-case)
+- [Iris](https://github.com/keebio/iris-case)
+- [KBO-5000](https://github.com/keebio/kbo-5000-case)
 - [Laplace](https://github.com/keebio/laplace-case)
 - [Levinson/Let's Split](https://github.com/keebio/lets-split-levinson-case)
-- [Nyquist Case](https://github.com/keebio/nyquist-case)
-- [Quefrency Case](https://github.com/keebio/quefrency-case)
-- [Sinc Case](https://github.com/keebio/sinc-case)
-- [Viterbi Case](https://github.com/keebio/viterbi-case)
+- [Nyquist](https://github.com/keebio/nyquist-case)
+- [Quefrency](https://github.com/keebio/quefrency-case)
+- [Sinc](https://github.com/keebio/sinc-case)
+- [Viterbi](https://github.com/keebio/viterbi-case)
 
 ## KiCAD Libraries
 
