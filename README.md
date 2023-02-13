@@ -11,6 +11,7 @@ Links to various open-source Keebio repositories, like PCB designs, case files, 
 
 - [BAMFK-1](https://github.com/keebio/bamfk-1-case)
 - [BDN9](https://github.com/keebio/BDN9-case)
+- [BFO-9000](https://github.com/keebio/bfo-9000-case)
 - [DSP40](https://github.com/keebio/dsp40-case)
 - [FoldKB](https://github.com/keebio/foldkb-case)
 - [Fourier](https://github.com/keebio/fourier-case)
